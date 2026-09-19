@@ -1,0 +1,5 @@
+zuike comments
+
+No authentication is found. When opening the **View Item** button, a NoReverseMatch error occurs. Please fix it. 
+
+before pushing changes to git run "git pull" command.
